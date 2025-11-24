@@ -17,7 +17,7 @@ Hi there! I'm <b>Md.Rousin</b>. I'm a passionate Software Developer with a stron
 
 - 🔭 I’m currently working on **JS, React, Node, Express MongoDB, SQL**.
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **Next.js.**
 
 - 💬 Ask me about **MERN-Stack (React, Node, Express, MongoDB)**
 
